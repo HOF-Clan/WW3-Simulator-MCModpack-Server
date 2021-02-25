@@ -74,7 +74,7 @@
         
         "quit":
         {
-            "text" : "Easy Way out",
+            "text" : "menu.quit",
             "posX" : 2,
             "posY" : 132,
             "width" : 98,
